@@ -2,4 +2,4 @@
 jupyter notebook
 <h5> jupyter note book for Google sheet access </h5>
 
-$$ x^2 $$
+$ x^2 $
